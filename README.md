@@ -8,13 +8,11 @@
 ![https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![https://img.shields.io/badge/tailwindcss-35495E?style=for-the-badge&logo=tailwindcss&logoColor=38BCF8](https://img.shields.io/badge/tailwindcss-35495E?style=for-the-badge&logo=tailwindcss&logoColor=38BCF8)
 
-快速開發模板架構
+[![cover](/readme/cover.png)](https://connectshark.github.io/infinite-virtual-list/#/)
 
-## 專案已安裝內容
 
-- vite
-- vue3
-- pinia
-- vue-router4
-- tailwindcss
-- github action自動部署至 `gh-page`
+## [DEMO](https://connectshark.github.io/infinite-virtual-list/#/)
+
+## [參考影片](https://youtu.be/4roJKfgPLk4)
+
+使用vueuse套件實現無限滾動以及虛擬列表功能 左上角小面板會顯示目前列表狀態
